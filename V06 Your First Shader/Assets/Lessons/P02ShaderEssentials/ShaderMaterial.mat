@@ -77,5 +77,5 @@ Material:
     - _AmbientColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.091, g: 0, b: 0.68275833, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _myColor: {r: 0.01064637, g: 0, b: 0.6981132, a: 1}
+    - _myColor: {r: 0.42207953, g: 0.41718584, b: 0.7075472, a: 1}
     - _myEmission: {r: 0.5, g: 0, b: 0, a: 1}
