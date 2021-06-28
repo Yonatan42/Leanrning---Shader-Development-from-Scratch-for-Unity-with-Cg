@@ -1,4 +1,4 @@
-﻿Shader "Hollistic/PackedPractice" {
+﻿Shader "Course/P02/Hollistic/PackedPractice" {
 
     Properties {
         _myColor ("Example Color", Color) = (1,1,1,1)

@@ -1,4 +1,4 @@
-﻿Shader "Hollistic/HelloShader" {
+﻿Shader "Course/P01/Hollistic/HelloShader" {
 
     Properties {
         _myColor ("Example Color", Color) = (1,1,1,1)
